@@ -1,6 +1,22 @@
 {
   "data": [
     {
+      "name": "Structural Break Challenge",
+      "url": "https://structural-break.crunchdao.com?ref=mlcontests",
+      "tags": [
+        "supervised",
+        "timeseries"
+      ],
+      "launched": "14 May 2025",
+      "registration-deadline": "10 Apr 2025",
+      "deadline": "15 Sep 2025",
+      "prize": "$100,000",
+      "platform": "Crundao",
+      "sponsor": "Adia Lab",
+      "conference": null,
+      "conference_year": null
+    },
+    {
       "name": "Forecast Micro-Hydropower Load Generation",
       "url": "https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge?ref=mlcontests",
       "tags": [
